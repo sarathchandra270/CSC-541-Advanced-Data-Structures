@@ -1,0 +1,11 @@
+           0: Yes
+           0: Yes
+          -1: No
+           1: No
+           0: Yes
+           1: No
+           1: No
+          -1: No
+           0: Yes
+           0: Yes
+Time: 0.000008
